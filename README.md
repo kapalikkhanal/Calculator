@@ -16,7 +16,10 @@ A simple calculator web application built with React JavaScript.
 
 ## Demo
 
-### `calculator.kapalik.com`
+(calculator.kapalik.com)
+
+## Screenshot
+(https://github.com/kapalikkhanal/Calculator/assets/95576601/0597d05a-9406-4469-9f1c-2f6077b6cd03)
 
 ## Built With
 * React - JavaScript library for building user interfaces.
